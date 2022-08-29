@@ -11,4 +11,4 @@ function ParallelQueryes() {
     )
 }
 
-export default ParallelQueryes
+export default ParallelQueryes;
