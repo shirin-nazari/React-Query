@@ -15,5 +15,35 @@
       "name": "Wonder Woman1",
       "alterEgo": "Princess Diana"
     }
+  ],
+  "friends":[
+    {
+      "id":2,
+      "name":"shirin"
+    },
+     {
+      "id":3,
+      "name":"bahar"
+     },
+      {
+      "id":4,
+      "name":"mahjan"
+    },
+     {
+      "id":5,
+      "name":"maryam"
+    },
+     {
+      "id":6,
+      "name":"fatemeh"
+    }, 
+    {
+      "id":7,
+      "name":"azam"
+    },
+      {
+      "id":8,
+      "name":"bani"
+    }
   ]
 }
