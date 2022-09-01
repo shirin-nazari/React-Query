@@ -45,5 +45,17 @@
       "id":8,
       "name":"bani"
     }
+  ],
+  "users":[
+    {
+      "id":"shirinnazari.h@gamil.com",
+      "channelId":"apsignals"
+    }
+  ],
+  "channels":[
+    {
+      "id":"apsignals",
+      "courses":["html","css","js","react","node","express"]
+    }
   ]
 }
